@@ -1,0 +1,28 @@
+
+ul{
+	background:yellow;
+	padding:20px;
+		
+}
+ul li{
+	background:white;
+	margin:7px;
+}
+ul[type=square]{
+	background:green;
+
+}
+ol{
+	background:#b0e0e6;
+	padding:20px;
+}
+ol li{
+	background:white;
+	margin:7px;}
+
+	ol[type=I]{
+		background:orange;
+	}
+
+
+
